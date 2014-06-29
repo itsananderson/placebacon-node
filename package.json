@@ -1,0 +1,29 @@
+{
+  "name": "placebacon",
+  "version": "0.1.0",
+  "description": "Downloads placebacon.net images to your machine",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "placebacon": "./bin/placebacon-cli.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/itsananderson/placebacon-node.git"
+  },
+  "keywords": [
+    "placebacon",
+    "cli"
+  ],
+  "author": "Will Anderson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/itsananderson/placebacon-node/issues"
+  },
+  "homepage": "https://github.com/itsananderson/placebacon-node",
+  "dependencies": {
+    "commander": "^2.2.0",
+    "placebase": "^0.1.1"
+  }
+}
