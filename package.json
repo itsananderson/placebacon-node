@@ -1,6 +1,6 @@
 {
   "name": "placebacon",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Downloads placebacon.net images to your machine",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
